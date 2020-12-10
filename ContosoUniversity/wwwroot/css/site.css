@@ -27,7 +27,8 @@ a {
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
-  font-size: 14px;
+    font-family: 'Nerko One', cursive;
+    font-size: 14px;
 }
 @media (min-width: 768px) {
   html {

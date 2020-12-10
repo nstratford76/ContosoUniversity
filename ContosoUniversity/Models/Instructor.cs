@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ContosoUniversity.Models
 {
-    public class Instructor : Person
+    public class Instructor
     {
         public int ID { get; set; }
 
